@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://LunaWolf.BadWolf/Calendario" version="1.0.2" height="320" width="320" viewmodes="maximized">
+    <tizen:application id="DM6tP7ayRO.Calendario" package="DM6tP7ayRO" required_version="2.2"/>
+    <author href="http://foro.toiiki.es" email="marco@lunawolf.es">BadWolf &amp; TheDoll</author>
+    <content src="index.html"/>
+    <description>Calendario en español para el Galaxy Gear con Tizen.</description>
+    <description xml:lang="es-es">Calendario en español para Samsung Galaxy Gear con Tizen</description>
+    <feature name="http://tizen.org/feature/screen.size.normal.320.320"/>
+    <icon src="icon.png" height="170" width="170"/>
+    <name>Calendario</name>
+    <name xml:lang="es-es">Calendario</name>
+    <name xml:lang="en-gb">Calendar</name>
+    <name xml:lang="en-us">Calendar</name>
+    <tizen:setting background-support="disable" encryption="disable" hwkey-event="enable"/>
+</widget>
